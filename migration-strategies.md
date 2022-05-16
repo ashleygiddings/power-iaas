@@ -95,6 +95,7 @@ Applications might have replication mechanisms that can sync multiple environmen
 - *Oracle Goldengate*
 - *iCluster*
 - *MIMIX from Syncsort*
+- *Maxava*
 
 ## Backup and restore
 {: #backup-restore}
@@ -108,6 +109,7 @@ Customers can use third-party tools to perform data migration. The following thi
 
 - *iCluster*
 - *MIMIX from Syncsort*
+- *Maxava*
 - *Double-Take® MoveTM for AIX*
 
 ## IBM teams and managed services
